@@ -2,6 +2,8 @@
 
 Thank you for taking the time to contribute to the project. Please take a moment to read the following guidelines before contributing:
 
+## How to Contribute? 🤔
+
 ### Step 1: Fork the Repository
 
 Click on the "Fork" button.
